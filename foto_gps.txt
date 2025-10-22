@@ -1,0 +1,15 @@
+Foto: 1761108181373.jpeg
+Latitud: -0.1841219
+Longitud: -78.507458
+Link: https://www.google.com/maps/@-0.1841219,-78.507458
+-------------------------
+Foto: 1761108560555.jpeg
+Latitud: -0.1840959
+Longitud: -78.5075244
+Link: https://www.google.com/maps/search/?api=1&query=-0.1840959,-78.5075244
+-------------------------
+Foto: 1761108573203.jpeg
+Latitud: -0.1841167
+Longitud: -78.5074592
+Link: https://www.google.com/maps/search/?api=1&query=-0.1841167,-78.5074592
+-------------------------
