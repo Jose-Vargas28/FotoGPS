@@ -25,7 +25,7 @@ La app pide permisos de cámara  y de poder utilizar el gps
 ![Screenshot_20251021_233103_Permission controller](https://github.com/user-attachments/assets/55b78235-a6ca-42a3-abd5-c265f29d7ffd)
 ![Screenshot_20251021_233138_Permission controller](https://github.com/user-attachments/assets/df553199-e546-43b2-93bf-388168de2935)
 
-Entonces ya podemos tomar fotos y se guarda la ubicación en un txt 
+Entonces ya podemos tomar fotos y se guarda la ubicación en un txt además de que al tomar la foto se genera un link de google maps para poder mostrar la ubicación de donde fue tomada la foto
 ![Screenshot_20251021_233151_FotoGPS](https://github.com/user-attachments/assets/0e1c478a-0792-44c5-8618-cf0b660630fa)
 ![Screenshot_20251021_234941_FotoGPS](https://github.com/user-attachments/assets/b8c02aa6-0149-4d14-9a99-64badabc8cbf)
 ![Screenshot_20251021_234954_Maps](https://github.com/user-attachments/assets/31a50171-63f8-495c-b649-3a460c97fdc8)
